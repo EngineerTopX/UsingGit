@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     //MARK:D1: 1.D1添加一个函数
     func d1Test1()-> Void {
         
-        
+        // MARK: M:2添加comment
     }
     
 }
